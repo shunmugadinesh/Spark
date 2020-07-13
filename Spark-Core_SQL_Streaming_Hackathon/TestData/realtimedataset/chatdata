@@ -1,0 +1,18 @@
+1~hi~c
+100~hello morning, how can i help you today~a
+1~i have issues in my tv connection~c
+100~I m really sorry about that. Tell me what happened~a
+1~heavy rain in the morning caused my stb notworking~c
+100~let me take your request, hopefully your issue will be resolved soon~a
+2~hello sir~c
+100~hello, thanks for contacting us, pleasure to support you~a
+2~my bill value is having discrepency~c
+200~sorry for that, what discrepency you are finding~a
+2~bill value is very higher than the actuals~c
+101~i have corrected your bill value, excess amout will be deducted in your next billing cycle, sorry for the inconvenience caused~a
+3~hi~c
+100~hi, very good evening~a
+3~internet connection is unstable and slow~c
+100~I m really sorry about that. let me help you fixing it~a
+3~sorry i want to disconnect my service~c
+100~i will take your request, sorry for the inconvenience~a
